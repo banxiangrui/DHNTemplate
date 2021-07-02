@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.banxiangrui.dhntemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.banxiangrui.dhntemplate.MyBundle
 
 class MyApplicationService {
 
